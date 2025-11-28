@@ -1,0 +1,12 @@
+*Seleccione su plan actual*
+
+1-Plan Mega
+2-Plan Ultra
+3-Plan Premiun
+4-Plan Platino
+0-Regresar al menu principal
+
+*Envié el numero correspondiente*,
+25,35,50,60,
+*Ingrese:*
+0-Para regresar al menu principal

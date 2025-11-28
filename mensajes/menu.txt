@@ -1,0 +1,6 @@
+❗ Por favor, envía solo una de las opciones mencionadas:
+👉 1 Consulta de saldo.
+👉 2 Métodos de pagos disponibles.
+👉 3 Solicitar asistencia con un asesor de Ventas.
+👉 4 Incidentes con la Red.
+👉 0 Salir del Bot
